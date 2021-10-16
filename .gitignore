@@ -1,0 +1,19 @@
+# log files
+.log
+#Compiled class files 
+.class
+#Mobile tools for java files
+.mtj.tmp/
+#BlueJ files 
+.ctxt
+#Package files
+.jar
+.war
+.ear
+.zip
+.tar.gz
+.rar
+
+
+
+
